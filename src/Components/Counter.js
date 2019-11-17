@@ -9,6 +9,7 @@ function Counter() {
 
   return (
     <div>
+      <p>WELCOME TO NETLIFY</p>
       <p>Initialiser le compteur à : 
         <input
           type="number"
